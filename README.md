@@ -69,6 +69,8 @@ Include collections like:
 
 - Notifications
 
+![Database Architecture](https://github.com/andresga11/Smart_Docs-/blob/main/sDocs_dbDiagram.drawio.png)
+
 # UI Wireframes (Low-Fidelity or High-Fidelity)
 Purpose: Map out user experience and navigation.
 
