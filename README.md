@@ -12,11 +12,11 @@ Facilitate easy document retrieval and audit readiness.
 
 
 # Tech Stack:
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-File Storage: AWS S3 (or local for dev)
-Authentication: JWT (JSON Web Token)
+Frontend: React.js, Tailwind CSS <br>
+Backend: Node.js, Express.js <br>
+Database: MongoDB <br>
+File Storage: AWS S3 (or local for dev) <br>
+Authentication: JWT (JSON Web Token) <br>
 
 # Scope:
 User authentication and role-based access control.
