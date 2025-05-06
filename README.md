@@ -32,3 +32,68 @@ Audit trail logging user activities.
 Search functionality with filters. 
 
 Notifications: Reminders for document expiration and pending reviews.
+
+
+# System Architecture Diagram
+Purpose: Shows how all components (frontend, backend, DB, file storage, auth) interact.
+
+Include:
+
+- React frontend
+
+ -Node.js/Express backend
+
+- MongoDB
+
+- AWS S3 (file storage)
+
+- Auth service (JWT)
+
+- API gateway (optional)
+
+
+# Database Schema Diagram (ERD or NoSQL Model)
+Purpose: Visualize collections, fields, and relationships.
+
+Include collections like:
+
+- Users
+
+- Documents
+
+- DocumentVersions
+
+- AuditLogs
+
+- Notifications
+
+# UI Wireframes (Low-Fidelity or High-Fidelity)
+Purpose: Map out user experience and navigation.
+
+Pages to wireframe:
+
+- Login/Register
+
+- Dashboard
+
+- Document Upload
+
+- Document Viewer (with approval/version tabs)
+
+- Admin Panel (user management + logs)
+
+Tools: Figma, Balsamiq, or even simple pen-and-paper sketches.
+
+# Workflow Diagram
+Purpose: Show how document states change.
+
+Example:
+
+Upload → Draft → Review → Approved → Archived
+        ↓         ↓         ↓
+    Rejected   Needs Edit   Expired
+    
+Include decision points like who can approve, when notifications are sent, etc.
+
+
+
