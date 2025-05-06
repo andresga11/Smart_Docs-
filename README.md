@@ -41,7 +41,7 @@ Include:
 
 - React frontend
 
- -Node.js/Express backend
+- Node.js/Express backend
 
 - MongoDB
 
@@ -89,9 +89,8 @@ Purpose: Show how document states change.
 
 Example:
 
-Upload → Draft → Review → Approved → Archived
-        ↓         ↓         ↓
-    Rejected   Needs Edit   Expired
+![Screenshot 2025-05-06 at 3 17 56 PM](https://github.com/user-attachments/assets/25764ce9-97af-4c10-8102-936059d5e6c7)
+
     
 Include decision points like who can approve, when notifications are sent, etc.
 
