@@ -51,6 +51,8 @@ Include:
 
 - API gateway (optional)
 
+![System Architecture](https://github.com/andresga11/Smart_Docs-/blob/main/SmartDocs_System_Architecture.drawio.png)
+
 
 # Database Schema Diagram (ERD or NoSQL Model)
 Purpose: Visualize collections, fields, and relationships.
